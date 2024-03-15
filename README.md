@@ -1,0 +1,29 @@
+## Table of Contents
+
+- Introduction to Pandas
+- Data Structures in Pandas
+  - What is Series and how we can create it
+  - Slicing Series
+  - Appending Series
+  - Operations on Series
+  - What is DataFrame and how we can create it
+  - Delete Column in DataFrame
+  - Delete Rows in DataFrame
+  - Data Selection in DataFrame
+  - Set Values in DataFrame
+  - Dealing with Null values
+  - Importing csv files
+  - Descriptive Statistics
+  - Apply function on DataFrame
+  - Merge DataFrames
+  - Like Operations in Pandas
+  - Regex in Pandas DataFrame
+  - Replace values in DataFrame
+  - Important DataFrame methods
+  - Group By Operations
+  - Stack and unstack in Pandas
+  - Pivot Tables
+  - Hierarchical Indexing
+  - Crosstab in Pandas
+  - Row and Column Bind
+- Data Visualizations using Pandas
